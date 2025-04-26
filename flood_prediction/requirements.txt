@@ -1,0 +1,23 @@
+# Packages required for users to run the code
+numpy
+scipy
+pandas
+folium
+scikit-learn
+matplotlib
+xgboost
+imblearn
+ipywidgets
+seaborn
+geojson
+streamlit_extras
+folium.plugins
+streamlit_folium
+plotly.express
+# Packages needed for testing/scoring
+pytest
+pytest-cov
+pytest-timeout
+
+
+
